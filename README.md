@@ -1,4 +1,5 @@
 # ibmhack
 Energy Audit for households
-The Idea.docx contains the solution proposed for the hack statement.
+
+Energy Audit for households.docx contains the solution(idea) proposed for the hack statement.
 
