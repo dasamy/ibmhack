@@ -7,3 +7,8 @@ ibm.ipynb contains the ML model currently using the data from http://redd.csail.
 
 Presentation 3 contains the ppt of the solution for the hack statement
 
+IBM_final_1 contains the preprocessed and disaggregated model.
+
+IBM_final_2 contains the preprocessed and the buckketing model.
+
+low_freq_norm.rar contains the merged data sampled at every half an hour. 
