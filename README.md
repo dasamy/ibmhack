@@ -11,4 +11,4 @@ IBM_final_1 contains the preprocessed and disaggregated model.
 
 IBM_final_2 contains the preprocessed and the buckketing model.
 
-low_freq_norm.rar contains the merged data sampled at every half an hour. 
+low_freq_rect_norm.rar contains the merged data sampled at every half an hour. 
